@@ -1,0 +1,11 @@
+.padding195 {
+  padding-left: 185px;
+}
+.sort_selected::after {
+  content: "\f00c";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  padding: 0 0 0 10px;
+  display: inline-block;
+}
